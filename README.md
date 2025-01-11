@@ -1,2 +1,2 @@
-# SIgma-Client
+# Sigma-Client
 Sigma Client
